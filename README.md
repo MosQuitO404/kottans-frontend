@@ -12,9 +12,9 @@
 Враження від вивченого матеріалу:
 - команди linux вивчати для мене досить легко, оскільки трохи знайомий з командами та логікою DOS;
 - цікаво було дізнатись, що CLI GIT Bash є аналогом CLI linux (тепер буду використовувати частіше у роботі разом із PowerShell);
-    <p>
-        <img src="task_linux_cli\first-quiz.jpg" width="420">
-        <img src="task_linux_cli\first-quiz.jpg" width="420">
-        <img src="task_linux_cli\first-quiz.jpg" width="400">
-        <img src="task_linux_cli\first-quiz.jpg" width="400">
-    </p>
+<p>
+    <img src="task_linux_cli\first-quiz.jpg" width="400">
+    <img src="task_linux_cli\first-quiz.jpg" width="400">
+    <img src="task_linux_cli\first-quiz.jpg" width="400">
+    <img src="task_linux_cli\first-quiz.jpg" width="400">
+</p>
