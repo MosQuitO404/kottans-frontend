@@ -15,6 +15,6 @@
 <p>
     <img src="task_linux_cli\first-quiz.jpg" width="400">
     <img src="task_linux_cli\first-quiz.jpg" width="400">
-    <img src="task_linux_cli\first-quiz.jpg" width="450">
-    <img src="task_linux_cli\first-quiz.jpg" width="450">
+    <img src="task_linux_cli\first-quiz.jpg" width="400">
+    <img src="task_linux_cli\first-quiz.jpg" width="400">
 </p>
