@@ -14,14 +14,29 @@
 - цікаво було дізнатись, що CLI GIT Bash є аналогом CLI linux (тепер буду використовувати частіше у роботі разом із PowerShell);
 - додатково дізнався, що **Markdown** підтримує HTML :)
 - стали логічно зрозумілими команди, які ми використовуємо в GIT та чому саме таке написання вони мають;
-  
+- принцип роботи HTTP протоколу також більш-менш зрозумілий але залишились питання щодо його технічного застосування на практиці;
+
 <p align="center">
-    <img src="task_linux_cli\first-quiz.jpg" width="400">
-    <img src="task_linux_cli\second-quiz.jpg" width="400">
-    <img src="task_linux_cli\third-quiz.jpg" width="400">
-    <img src="task_linux_cli\fourth-quiz.jpg" width="400">
+    <img src="task_linux_cli\first-quiz.jpg" width="400" height="265">
+    <img src="task_linux_cli\second-quiz.jpg" width="400" height="265">
+    <img src="task_linux_cli\third-quiz.jpg" width="400" height="265">
+    <img src="task_linux_cli\fourth-quiz.jpg" width="400" height="265">
 </p>
 
 #### Завдання 3 "Git для командної співпраці"
+---
+Враження від вивченого матеріалу:
+- дізнався для чого потрібні SHH ключі та за яким принципом вони працюють (буду використовувати в роботі);
+- нарешті зрозумів у чому принципова різниця між `git fetch` та `git pull` але поки що планую в роботі використовувати зв'язку `git fetch` + перевірка змін, що відбулись на віддаленому репо + `git merge`;
+- розібрався навіщо спочатку робити **fork** віддаленого репо та чим він відрізняється від прямого `git clone`;
+- дізнався яким чином можна об'єднувати вже існуючі незначні комміти командою `git rebase -i` та `squash` в один комміт та таким чином змінювати **pull request**, що був направлений на розгляд (точно буду використовувати на практиці);
+- стало зрозумілим все те, що ми робили для виконання попереднього завдання, щоб свідомо створити pull request не копіюючи запропоновані команди. Супер!!!;   
+
+<p align="center">
+    <img src="task_git_collaboration\base-screen.jpg" width="400" height="250">
+    <img src="task_git_collaboration\remotegit-screen.jpg" width="400" height="250">
+</p>
+
+#### Завдання 4 "Вступ до HTML і CSS"
 ---
 Враження від вивченого матеріалу:
