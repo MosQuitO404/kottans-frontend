@@ -16,12 +16,12 @@
 - стали логічно зрозумілими команди, які ми використовуємо в GIT та чому саме таке написання вони мають;
 - принцип роботи HTTP протоколу також більш-менш зрозумілий але залишились питання щодо його технічного застосування на практиці;
 
-<figure align="center">
+<p align="center">
     <img src="task_linux_cli\first-quiz.jpg" width="400" height="265">
     <img src="task_linux_cli\second-quiz.jpg" width="400" height="265">
     <img src="task_linux_cli\third-quiz.jpg" width="400" height="265">
     <img src="task_linux_cli\fourth-quiz.jpg" width="400" height="265">
-</figure>
+</p>
 
 #### Завдання 3 "Git для командної співпраці"
 ---
@@ -32,10 +32,10 @@
 - дізнався яким чином можна об'єднувати вже існуючі незначні комміти командою `git rebase -i` та `squash` в один комміт та таким чином змінювати **pull request**, що був направлений на розгляд (точно буду використовувати на практиці);
 - стало зрозумілим все те, що ми робили для виконання попереднього завдання, щоб свідомо створити pull request не копіюючи запропоновані команди. Супер!!!   
 
-<figure align="center">
+<p align="center">
     <img src="task_git_collaboration\base-screen.jpg" width="400" height="250">
     <img src="task_git_collaboration\remotegit-screen.jpg" width="400" height="250">
-</figure>
+</p>
 
 #### Завдання 4 "Вступ до HTML і CSS"
 ---
@@ -49,7 +49,7 @@
 - здивувало вирішення проблеми адаптивного дизайну на мобільних пристроях за допомогою метатегу `viewport`;
 - дуже прикольний та гарно структурований інтерактивний курс по HTML та CSS на [CodeCademy](https://www.codecademy.com) 
 
-<figure align="center">
+<p align="center">
     <img src="task_html_css_intro\HTML_Course.jpg" width="400" height="180">
     <img src="task_html_css_intro\CSS_Course.jpg" width="400" height="180">
-</figure>
+</p>
