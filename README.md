@@ -79,3 +79,27 @@
 #### Завдання 6 "JavaScript Basics"
 ---
 Враження від вивченого матеріалу:
+- В подальшому намагатимусь все частіше застосовувати синтаксис ES6 бо він дуже спрощує написання коду;
+- деякі задачі були складними з точки зору розуміння алгоритму;
+- поки що складно повністю зрозуміти у чому полегшується робота при зміні властивостей об'єктів за допомогою деструкції, а не класичним способом;
+- цікаві задачі з основ написання алгоритмів. Було складно, але я був у захваті кожно разу як виходило вирішити задачу і в консолі з'являвся потрібний результат;
+- `Intermediate Algorithm Scripting Challenges` взагалі не зайшло. Одне завдання займало декілька годин. Дуже складно. 
+- в процесі навчання була деяка плутанина у застосуванні методів масивів та строк бо вони мають схожі синтаксичні назви;
+- стрілочні функції дуже крута штука, вже використовую у коді там де це є доречним.
+
+<details>
+    <summary>Screenshots</summary>
+    <p align="center">
+    <img src="task_js_basics\JS-basics.jpg" width="400" height="">
+    <img src="task_js_basics\ES6.jpg" width="400" height="">
+    <img src="task_js_basics\data_structures.jpg" width="400" height="">
+    <img src="task_js_basics\JS-algorithms.jpg" width="400" height="">
+    <img src="task_js_basics\JS-functional.jpg" width="400" height="">
+    <img src="task_js_basics\JS-algorithms-intermediate.jpg" width="400" height="">
+    </p>
+</details>
+<br/>  
+
+#### Завдання 7 "Document Object Model"
+---
+Враження від вивченого матеріалу:
