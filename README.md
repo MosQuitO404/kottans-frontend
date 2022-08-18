@@ -97,8 +97,7 @@
     <img src="task_js_basics\JS-functional.jpg" width="400" height="">
     <img src="task_js_basics\JS-algorithms-intermediate.jpg" width="400" height="">
     </p>
-</details>
-<br/>  
+</details>  
 
 #### Завдання 7 "Document Object Model"
 ---
